@@ -28,7 +28,7 @@ Somos unos apasionados de la tecnología, geeks y cacharreros. Grabamos también
     <itunes:category text="Technology" />
 
     <!-- PORTADA GENERAL DEL PODCAST -->
-    <itunes:image href="https://frikismopuro.github.io/mi-podcast/portada.png" />
+    <itunes:image href="https://frikismopuro.github.io/mi-podcast/portada.jpg" />
 
     <!-- EPISODIO 11x11 -->
     <item>
