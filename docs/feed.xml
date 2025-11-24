@@ -14,7 +14,7 @@
     <description>Somos unos apasionados de la tecnología, geeks y cacharreros. Grabamos también sobre Frikadas varias que nos gustan como series, películas y videojuegos. Utilizamos iPhone y Android. Fran - @franciscomalaka y Juan - @Purojota frikismopuro@gmx.es</description>
     <itunes:explicit>no</itunes:explicit>
 
-    <!-- PROPIETARIO (REQUERIDO POR APPLE) -->
+    <!-- PROPIETARIO -->
     <itunes:owner>
       <itunes:name>Frikismo Puro</itunes:name>
       <itunes:email>frikismopuro@gmx.es</itunes:email>
