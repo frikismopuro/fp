@@ -77,6 +77,28 @@ FEED NUEVO SIN PUBLICIDAD!: https://frikismopuro.github.io/fp/feed.xml</descript
          
       <itunes:explicit>no</itunes:explicit>  
     </item>
+
+       <!-- EPISODIO 11x13 -->
+    <item>
+      <title>Frikismo Puro 11x13: Parches de seguridad para el niño y la niña</title>
+      <description>Se avecinan cambios en los modelos de IA que llenarán de publicidad las conversaciones con el chatbot.... y es que lamentablemente es el recurso que las empresas usan para financiar el desarrollo de sus productos. 
+Hablamos también de la nueva arruga que Samsung, de las caídas de internet y de como los políticos nos quieren proteger ante esas amenazas sin dejar de lado el bombazo en el mundo del entretenimiento con Netflix y Warner de protagonistas. No te lo puedes perder!.
+Para mas información: www.frikismopuro.com
+Link Amazon: https://amzn.to/35q5ixk
+Link de Patreon: https://www.patreon.com/FrikismoPuro
+Link de Telegram: https://t.me/FrikismoPuro_Comentarios
+FEED NUEVO SIN PUBLICIDAD!: https://frikismopuro.github.io/fp/feed.xml</description>
+
+      <!-- FECHA DEL EPISODIO -->
+      <pubDate>Mon, 08 Dec 2025 12:30:00 +0000</pubDate>
+
+      <!-- AUDIO EN ARCHIVE.ORG -->
+      <guid isPermaLink="false">https://archive.org/download/podcast-11x-13/Podcast%2011x13.m4a</guid>
+      <enclosure url="https://archive.org/download/podcast-11x-13/Podcast%2011x13.m4a"
+                 type="audio/mp4" />
+         
+      <itunes:explicit>no</itunes:explicit>  
+    </item>
        
   </channel>
 </rss>
