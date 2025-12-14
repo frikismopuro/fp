@@ -99,6 +99,28 @@ FEED NUEVO SIN PUBLICIDAD!: https://frikismopuro.github.io/fp/feed.xml</descript
          
       <itunes:explicit>no</itunes:explicit>  
     </item>
+
+       <!-- EPISODIO 11x14 -->
+    <item>
+      <title>Frikismo Puro 11x14: Se nos lleva el aire</title>
+      <description>Repasamos de forma concienzuda las batallas entre EEUU y china para dominar el hardware que controla la IA, las novedades de la Comisión Europea y las normativas que vienen para controlar la industria y proteger, o no, a los ciudadanos entre otras cosas.... Y EL PLATO FUERTE DE LOS GOTY 2025!
+No te quedes sin tu ración de Frikismo Puro.
+Para mas información: www.frikismopuro.com
+Link Amazon: https://amzn.to/35q5ixk
+Link de Patreon: https://www.patreon.com/FrikismoPuro
+Link de Telegram: https://t.me/FrikismoPuro_Comentarios
+FEED NUEVO SIN PUBLICIDAD!: https://frikismopuro.github.io/fp/feed.xml</description>
+
+      <!-- FECHA DEL EPISODIO -->
+      <pubDate>Sun, 14 Dec 2025 12:30:00 +0000</pubDate>
+
+      <!-- AUDIO EN ARCHIVE.ORG -->
+      <guid isPermaLink="false">https://archive.org/download/podcast-11x-14/Podcast11x14.mp3</guid>
+      <enclosure url="https://archive.org/download/podcast-11x-14/Podcast11x14.mp3"
+                 type="audio/mp3" />
+         
+      <itunes:explicit>no</itunes:explicit>  
+    </item>
        
   </channel>
 </rss>
