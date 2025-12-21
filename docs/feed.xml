@@ -121,6 +121,30 @@ FEED NUEVO SIN PUBLICIDAD!: https://frikismopuro.github.io/fp/feed.xml</descript
          
       <itunes:explicit>no</itunes:explicit>  
     </item>
+
+       <!-- EPISODIO 11x15 -->
+    <item>
+      <title>Frikismo Puro 11x15: A golpe de servidores chinos</title>
+      <description>Ya queda poco para terminar el 2025 y terminamos el año con la misma sensación que cuando lo empezamos.... con el poderío tecnológico de China en auge y absorbiendo empresas "occidentales" aunque le quiten el control de otras como TikTok.
+Por otro lado seguimos viendo como la IA sigue siendo protagonista de todos los ámbitos de nuestra vida incluidos los videojuegos.
+También os damos una dosis de nuestros puntos de vista de cada noticia y la sección de temas personales. Seguro que disfrutas de nuestra compañía.
+Para mas información: www.frikismopuro.com
+Link de Amazon: https://amzn.to/35q5ixk
+Link de Patreon: https://www.patreon.com/FrikismoPuro
+Link de comentarios en Telegram: https://t.me/FrikismoPuro_Comentarios
+FEED SIN PUBLICIDAD: https://frikismopuro.github.io/fp/feed.xml
+LINK OCTOPUS: https://octopusenergy.es/navidad</description>
+
+      <!-- FECHA DEL EPISODIO -->
+      <pubDate>Sun, 21 Dec 2025 14:30:00 +0000</pubDate>
+
+      <!-- AUDIO EN ARCHIVE.ORG -->
+      <guid isPermaLink="false">https://archive.org/download/podcast-11x-15_202512/Podcast11x15.m4a</guid>
+      <enclosure url="https://archive.org/download/podcast-11x-15_202512/Podcast11x15.m4a"
+                 type="audio/mp4" />
+         
+      <itunes:explicit>no</itunes:explicit>  
+    </item>
        
   </channel>
 </rss>
