@@ -145,6 +145,28 @@ LINK OCTOPUS: https://octopusenergy.es/navidad</description>
          
       <itunes:explicit>no</itunes:explicit>  
     </item>
+
+       <!-- EPISODIO 11x16 -->
+    <item>
+      <title>Frikismo Puro 11x16: La Odisea de las copias de seguridad</title>
+      <description>Hoy somos testigos de las novedades que nos trae la industria del entretenimiento y la tecnología en particular.
+La importancia de cuidar el software y el hardware o como se guardan 300TB de datos y no parezca una gran hazaña es uno de los puntos que discutimos en este, tu podcast.
+No dejamos de lado nuestros temas personales y vivencias de la semana... acompáñanos en este viaje podcastero semanal.
+Link de Amazon: https://amzn.to/35q5ixk
+Link de Patreon: https://www.patreon.com/FrikismoPuro
+Link de comentarios en Telegram: https://t.me/FrikismoPuro_Comentarios
+FEED SIN PUBLICIDAD: https://frikismopuro.github.io/fp/feed.xml
+
+      <!-- FECHA DEL EPISODIO -->
+      <pubDate>Sun, 28 Dec 2025 14:30:00 +0000</pubDate>
+
+      <!-- AUDIO EN ARCHIVE.ORG -->
+      <guid isPermaLink="false">https://archive.org/download/podcast-11x-16/Podcast11x16.m4a</guid>
+      <enclosure url="https://archive.org/download/podcast-11x-16/Podcast11x16.m4a"
+                 type="audio/mp4" />
+         
+      <itunes:explicit>no</itunes:explicit>  
+    </item>
        
   </channel>
 </rss>
