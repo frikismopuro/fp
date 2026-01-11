@@ -167,6 +167,28 @@ FEED SIN PUBLICIDAD: https://frikismopuro.github.io/fp/feed.xml</description>
          
       <itunes:explicit>no</itunes:explicit>  
     </item>
+
+       <!-- EPISODIO 11x17 -->
+    <item>
+      <title>Frikismo Puro 11x17: Bienvenidos a 2026</title>
+      <description>Bueeeenas.
+Estrenamos año con energías renovadas y con noticias que os van a impactar donde vemos las baterías para coches que si van a cambiar el futuro, robots humanoides y tecnología que nos dan mejor calidad de vida.
+También repasamos el mundo del videojuego y damos un paseo por nuestras vivencias de la semana que seguro que os gustan.
+Link de Amazon: https://amzn.to/35q5ixk
+Link de Patreon: https://www.patreon.com/FrikismoPuro
+Link de comentarios en Telegram: https://t.me/FrikismoPuro_Comentarios
+FEED SIN PUBLICIDAD: https://frikismopuro.github.io/fp/feed.xml</description>
+
+      <!-- FECHA DEL EPISODIO -->
+      <pubDate>Sun, 14 Jan 2026 14:30:00 +0000</pubDate>
+
+      <!-- AUDIO EN ARCHIVE.ORG -->
+      <guid isPermaLink="false">https://archive.org/download/podcast-11x-17/Podcast11x17.m4a</guid>
+      <enclosure url="https://archive.org/download/podcast-11x-17/Podcast11x17.m4a"
+                 type="audio/mp4" />
+         
+      <itunes:explicit>no</itunes:explicit>  
+    </item>
        
   </channel>
 </rss>
