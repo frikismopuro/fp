@@ -189,6 +189,28 @@ FEED SIN PUBLICIDAD: https://frikismopuro.github.io/fp/feed.xml</description>
          
       <itunes:explicit>no</itunes:explicit>  
     </item>
+
+       <!-- EPISODIO 11x18 -->
+    <item>
+      <title>Frikismo Puro 11x18: Vamos quitando chinchetas</title>
+      <description>Pues no... éste no es un pocast especial con lo mejor y peor del 2025... No lo hemos podido preparar y por eso os traemos un hermoso podcast lleno de noticias interensantes que, además, nos sirve para quitar varias chinchetas que tenemos pendientes por quitar.
+También tenemos nuestra sección personal dónde os contamos nuestras cositas de la semana.
+Para mas información: www.frikismopuro.com
+Link amazon: https://amzn.to/35q5ixk
+Link de Patreon: https://www.patreon.com/FrikismoPuro
+Link Telegram: https://t.me/FrikismoPuro_Comentarios
+FEED NUEVO SIN PUBLICIDAD: https://frikismopuro.github.io/fp/feed.xml</description>
+
+      <!-- FECHA DEL EPISODIO -->
+      <pubDate>Sun, 18 Jan 2026 14:30:00 +0000</pubDate>
+
+      <!-- AUDIO EN ARCHIVE.ORG -->
+      <guid isPermaLink="false">https://archive.org/download/podcast-11x-18/Podcast11x18.m4a</guid>
+      <enclosure url="https://archive.org/download/podcast-11x-18/Podcast11x18.m4a"
+                 type="audio/mp4" />
+         
+      <itunes:explicit>no</itunes:explicit>  
+    </item>
        
   </channel>
 </rss>
