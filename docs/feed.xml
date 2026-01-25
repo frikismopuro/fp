@@ -211,6 +211,28 @@ FEED NUEVO SIN PUBLICIDAD: https://frikismopuro.github.io/fp/feed.xml</descripti
          
       <itunes:explicit>no</itunes:explicit>  
     </item>
+
+       <!-- EPISODIO 11x19 -->
+    <item>
+      <title>Frikismo Puro 11x19: FrikiPod 2025 y nuestras cosillas</title>
+      <description>Ya está aquí el podcast especial que con tanto cariño os traemos. Damos un repaso a lo mejor y peor, bajo nuestro criterio, del año 2025. Sorteamos un MI Tv Stick y además damos el ganador de las FrikiPod 2025!!
+No te puedes perder tanta información maravillosa.
+Para mas información: www.frikismopuro.com
+Link amazon: https://amzn.to/35q5ixk
+Link de Patreon: https://www.patreon.com/FrikismoPuro
+Link Telegram: https://t.me/FrikismoPuro_Comentarios
+FEED NUEVO SIN PUBLICIDAD: https://frikismopuro.github.io/fp/feed.xml</description>
+
+      <!-- FECHA DEL EPISODIO -->
+      <pubDate>Sun, 19 Jan 2026 14:30:00 +0000</pubDate>
+
+      <!-- AUDIO EN ARCHIVE.ORG -->
+      <guid isPermaLink="false">https://archive.org/download/podcast11x19/podcast11x19.m4a</guid>
+      <enclosure url="https://archive.org/download/podcast11x19/podcast11x19.m4a"
+                 type="audio/mp4" />
+         
+      <itunes:explicit>no</itunes:explicit>  
+    </item>
        
   </channel>
 </rss>
