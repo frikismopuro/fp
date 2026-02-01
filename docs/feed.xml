@@ -233,6 +233,30 @@ FEED NUEVO SIN PUBLICIDAD: https://frikismopuro.github.io/fp/feed.xml</descripti
          
       <itunes:explicit>no</itunes:explicit>  
     </item>
+
+       
+       <!-- EPISODIO 11x20 -->
+    <item>
+      <title>Frikismo Puro 11x20: Código generado o degenerado por IA</title>
+      <description>Esta semana hemos visto como la IA ha dado otro salto mas de calidad y sigue sorprendiendo y asustando a los creadores de código y contenido.
+Avatares con IA, videojuegos con IA, ordenadores controlados por IA y un sinfín de proyectos que surgen de manera casi infinita.
+También repasamos nuestras anécdotas de la semana que con tanto amor compartimos con vosotros.
+Para mas información: www.frikismopuro.com
+Link Amazon: https://amzn.to/35q5ixk
+Link de Patreon: https://www.patreon.com/FrikismoPuro
+Link de comentarios de Telegram: https://t.me/FrikismoPuro_Comentarios
+FEED SIN PUBLICIDAD: https://frikismopuro.github.io/fp/feed.xml</description>
+
+      <!-- FECHA DEL EPISODIO -->
+      <pubDate>Sun, 01 Feb 2026 13:15:10 +0000</pubDate>
+
+      <!-- AUDIO EN ARCHIVE.ORG -->
+      <guid isPermaLink="false">https://archive.org/download/podcast-11x-20/Podcast11x20.m4a</guid>
+      <enclosure url="https://archive.org/download/podcast-11x-20/Podcast11x20.m4a"
+                 type="audio/mp4" />
+         
+      <itunes:explicit>no</itunes:explicit>  
+    </item>
        
   </channel>
 </rss>
