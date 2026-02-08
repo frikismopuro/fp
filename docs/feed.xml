@@ -16,6 +16,20 @@
     <itunes:category text="Technology" />
     <itunes:image href="https://raw.githubusercontent.com/frikismopuro/fp/d37ae8723a2cb87bd72e754b1c5d974cc3783baf/docs/portada.jpg" />
     <podcast:guid>frikismopuro.com</podcast:guid>
+        <item>
+      <title>Frikismo Puro 11x21: Que si que no, que esa novedad te la cuento yo</title>
+      <link>https://www.frikismopuro.com</link>
+      <description>Muchas cosas vienen de camino y hoy adelantemos, con ilusión, parte de ellas: Un pixel 10a viene de camino, la nueva xbox asoma la patita, Códex mejora nuestras vidas y cambios en los lanzamientos de la Nasa son, entre otras cosas, las que repasamos en este tu podcast favorito.
+Para mas información: www.frikismopuro.com
+Link de Amazon: https://amzn.to/35q5ixk
+Link de Patreon: https://www.patreon.com/FrikismoPuro
+Link para comentar en Telegram: https://t.me/FrikismoPuro_Comentarios
+FEED SIN PUBLICIDAD: https://frikismopuro.github.io/fp/feed.xml</description>
+      <pubDate>Sun, 08 Feb 2026 13:21:28 +0000</pubDate>
+      <guid isPermaLink="false">https://archive.org/download/podcast-11x-21/Podcast11x21.m4a</guid>
+      <enclosure url="https://archive.org/download/podcast-11x-21/Podcast11x21.m4a" type="audio/mp4" length="0" />
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Frikismo Puro 11x20: Código generado o degenerado por IA</title>
       <link>https://www.frikismopuro.com</link>
